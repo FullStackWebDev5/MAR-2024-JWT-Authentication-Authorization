@@ -153,8 +153,6 @@ app.listen(3000, () => {
   .catch((error) => console.log(error))
 })
 
-
-
 /*
   # Authentication and Authorization
     - Authentication: Who are you?
